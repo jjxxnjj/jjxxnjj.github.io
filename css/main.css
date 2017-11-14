@@ -29,8 +29,8 @@
 /*=================================
 ||			1. Imports 
 ==================================*/
-@import url(http://fonts.useso.com/css?family=Raleway:400,700,300);
-@import url(http://fonts.useso.com/css?family=Roboto:300,700);
+/*@import url(http://fonts.useso.com/css?family=Raleway:400,700,300);
+@import url(http://fonts.useso.com/css?family=Roboto:300,700);*/
 
 
 /*=================================
@@ -232,6 +232,7 @@ a.logo:hover
 	transition: .5s;
 	min-height: 62px;
 }
+
 /*=================================
 ||			5. Our Service 
 ==================================*/
@@ -458,7 +459,7 @@ button.active, button.filters-button:hover, button.filters-button:active, button
 /*=================================
 ||			8. Meet With Us
 ==================================*/
-.meet-item-bg
+/*.meet-item-bg
 {
 	background: #221e2d;
 	width: 100%;
@@ -519,7 +520,7 @@ button.active, button.filters-button:hover, button.filters-button:active, button
 .meet-item-about
 {
 	font-size: 13px;
-}
+}*/
 /*=================================
 ||			9. Testimonial
 ==================================*/
